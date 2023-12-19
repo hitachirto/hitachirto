@@ -1,4 +1,4 @@
-<article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto">yo soy <a href="https://github.com/hitachirto/hitachirto" rel="nofollow">Ronny Talcan</a>, Desarrollador Full-Stack con experiencia en proyectos web integrales. Proveniente de Chile, especializado en tecnologías front-end como HTML, CSS, JavaScript (incluyendo jQuery) y frameworks como Bootstrap. Proficiente en back-end con Node.js, PHP, y bases de datos como PostgreSQL y SQL. Experiencia en Laravel y Docker. Experto en control de versiones y colaboración con Git y GitHub, aplicando metodologías ágiles. Conocimientos en SPA (Single Page Application) y diseño web responsivo con SASS. Amplia experiencia en desarrollo web dinámico con WordPress y Shopify. Certificado en CSS3, HTML5, y con habilidades en programación orientada a objetos (POO). Apasionado por la optimización y eficiencia en el desarrollo. Conoce más en www.ronydev.com. #FullStack #WebDevelopment #TechEnthusiast</p>
+<article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto">Hola  soy <a href="https://github.com/hitachirto/hitachirto" rel="nofollow">Ronny Talcan</a>, Desarrollador Full-Stack con experiencia en proyectos web integrales. Proveniente de Chile, especializado en tecnologías front-end como HTML, CSS, JavaScript (incluyendo jQuery) y frameworks como Bootstrap. Proficiente en back-end con Node.js, PHP, y bases de datos como PostgreSQL y SQL. Experiencia en Laravel y Docker. Experto en control de versiones y colaboración con Git y GitHub, aplicando metodologías ágiles. Conocimientos en SPA (Single Page Application) y diseño web responsivo con SASS. Amplia experiencia en desarrollo web dinámico con WordPress y Shopify. Certificado en CSS3, HTML5, y con habilidades en programación orientada a objetos (POO). Apasionado por la optimización y eficiencia en el desarrollo. Conoce más en www.ronydev.com. #FullStack #WebDevelopment #TechEnthusiast</p>
   
   <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 500px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" data-target="animated-image.originalLink" hidden=""><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden=""></a>
       <span class="AnimatedImagePlayer enabled" data-target="animated-image.player">
@@ -30,7 +30,10 @@
 
 
 ### Contactame!:
+[<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" width="100" height="30" />][website]
+### empresa!:
 
+<img align="bottom" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=400,fit=crop,q=95/YX4XZXBbE1Fjpnp9/logo-oser-2023-A0xW4wqL9BhLRlQG.png" width="100" height="30" />
 
 ### Lenguajes y Herramientas que utilizo:
 
@@ -43,6 +46,11 @@ __Generales:__
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" height="30"/>
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="30" height="30"/>
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" width="30" height="30"/>
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="30" height="30"/>
+
 <br />
 
 ---
@@ -71,7 +79,5 @@ __Cursos:__
 <br />
 
 ---
-
-
-[Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
+[website]:https://www.linkedin.com/in/ronny-talcan-olavarria/
 
