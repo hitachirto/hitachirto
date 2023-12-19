@@ -30,10 +30,10 @@
 
 
 ### Contactame!:
-[<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" width="100" height="30" />][website]
+[<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" width="100" height="30" />][linkedin]
 ### empresa!:
 
-<img align="bottom" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=400,fit=crop,q=95/YX4XZXBbE1Fjpnp9/logo-oser-2023-A0xW4wqL9BhLRlQG.png" width="100" height="30" />
+[<img align="bottom" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=400,fit=crop,q=95/YX4XZXBbE1Fjpnp9/logo-oser-2023-A0xW4wqL9BhLRlQG.png" width="100" height="30" />][empresa]
 
 ### Lenguajes y Herramientas que utilizo:
 
@@ -79,5 +79,7 @@ __Cursos:__
 <br />
 
 ---
-[website]:https://www.linkedin.com/in/ronny-talcan-olavarria/
+[linkedin]:https://www.linkedin.com/in/ronny-talcan-olavarria/
+[empresa]:https://oser.cl/
+
 
