@@ -12,7 +12,7 @@
 
 
 
-### ¡Hola a todos! Mi nombre es Ronny  - aka [Chochy][Facebook] 👋
+### ¡Hola a todos! Mi nombre es Ronny  - aka [RONY][linkedin] 👋
 
 ## Soy estudiante y desarrollador de Software
 
