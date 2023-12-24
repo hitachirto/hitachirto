@@ -30,10 +30,17 @@
 
 
 ### Contactame!:
-[<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" width="100" height="30" />][linkedin]
+[<img align="bottom" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="35"  />][linkedin]
+[<img align="bottom" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" height="35"  />][whatsapp]
+[<img align="bottom" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="150" height="35"  />][web]
+
+
+
+
+
 ### empresa!:
 
-[<img align="bottom" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=400,fit=crop,q=95/YX4XZXBbE1Fjpnp9/logo-oser-2023-A0xW4wqL9BhLRlQG.png" width="100" height="30" />][empresa]
+[<img align="bottom" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=400,fit=crop,q=95/YX4XZXBbE1Fjpnp9/logo-oser-2023-A0xW4wqL9BhLRlQG.png" width="150" height="35" />][empresa]
 
 ### Lenguajes y Herramientas que utilizo:
 
@@ -81,5 +88,7 @@ __Cursos:__
 ---
 [linkedin]:https://www.linkedin.com/in/ronny-talcan-olavarria/
 [empresa]:https://oser.cl/
+[whatsapp]:https://wa.link/972i91
+[web]:https://sites.google.com/view/ronydev/inicio
 
 
